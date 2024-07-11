@@ -1,3 +1,4 @@
+//Starting code:
 // function capitalize(str) {
 //   return str.length > 0 ? str.charAt(0).toUpperCase() + str.slice(1).toLowerCase() : str;
 // }
@@ -86,6 +87,8 @@ if (humanScore > computerScore) {
 } else if (humanScore < computerScore) {
   console.log("Computer wins the game!");
 }
+
+//Alt code for score keeping:
 // let message = (computerChoice > humanChoice) ? `${computerScore + 1}:${humanScore}` :
 //   (computerChoice < humanChoice) ? `${computerScore}:${humanScore + 1}` :
 //   (computerChoice === humanChoice) ? `${computerScore}:${humanScore}`: `Tie`;

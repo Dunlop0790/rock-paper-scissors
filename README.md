@@ -1,1 +1,2 @@
 # rock-paper-scissors
+Game allows for 3 options: Rock, Paper, or Scissors and is played through the console (ctrl+shift+j) with user inputs received through the prompt. After 5 rounds an overall winner is declared between the user and the computer. This was written with mostly functions.
